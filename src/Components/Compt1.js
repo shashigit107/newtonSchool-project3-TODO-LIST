@@ -56,7 +56,7 @@ const Compt1 = () => {
       }
       return para2;
     });
-    setTodos(updatedTodos);
+    setTodos(updatedTodos)
     setTodoEditing(null);
   }
 
