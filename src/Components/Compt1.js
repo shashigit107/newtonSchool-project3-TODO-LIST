@@ -101,7 +101,7 @@ const Compt1 = () => {
         </div>
       ))}
     </div>
-  );
+  )
 };
 
 export default Compt1;
