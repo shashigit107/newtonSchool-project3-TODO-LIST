@@ -44,7 +44,7 @@ const Compt1 = () => {
       if (para3.id === id) {
         para3.completed = !para3.completed;
       }
-      return para3;
+      return para3
     });
     setTodos(updatedTodos);
   }
