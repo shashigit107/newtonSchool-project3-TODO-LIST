@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/newtonSchool-project3-TODO-LIST/public/static/css/main.693aa715.chunk.css",
+    "main.js": "/newtonSchool-project3-TODO-LIST/public/static/js/main.d87af729.chunk.js",
+    "main.js.map": "/newtonSchool-project3-TODO-LIST/public/static/js/main.d87af729.chunk.js.map",
+    "runtime-main.js": "/newtonSchool-project3-TODO-LIST/public/static/js/runtime-main.ed6f92a0.js",
+    "runtime-main.js.map": "/newtonSchool-project3-TODO-LIST/public/static/js/runtime-main.ed6f92a0.js.map",
+    "static/js/2.29d2758f.chunk.js": "/newtonSchool-project3-TODO-LIST/public/static/js/2.29d2758f.chunk.js",
+    "static/js/2.29d2758f.chunk.js.map": "/newtonSchool-project3-TODO-LIST/public/static/js/2.29d2758f.chunk.js.map",
+    "index.html": "/newtonSchool-project3-TODO-LIST/public/index.html",
+    "static/css/main.693aa715.chunk.css.map": "/newtonSchool-project3-TODO-LIST/public/static/css/main.693aa715.chunk.css.map",
+    "static/js/2.29d2758f.chunk.js.LICENSE.txt": "/newtonSchool-project3-TODO-LIST/public/static/js/2.29d2758f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed6f92a0.js",
+    "static/js/2.29d2758f.chunk.js",
+    "static/css/main.693aa715.chunk.css",
+    "static/js/main.d87af729.chunk.js"
+  ]
+}
